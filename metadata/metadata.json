@@ -15,7 +15,7 @@
           "trait_type": "Role",
           "value": "Pineapple"
         }
-      ],
+      ]
     },
     {
       "name": "#2",
@@ -30,7 +30,7 @@
           "trait_type": "Role",
           "value": "Apple"
         }
-      ],
+      ]
     },
     {
       "name": "#3",
@@ -45,7 +45,7 @@
           "trait_type": "Role",
           "value": "Pen"
         }
-      ],
+      ]
     },
     {
       "name": "#4",
@@ -60,7 +60,7 @@
           "trait_type": "Role",
           "value": "Pen"
         }
-      ],
+      ]
     },
     {
       "name": "#5",
@@ -75,7 +75,7 @@
           "trait_type": "Role",
           "value": "Pineapple"
         }
-      ],
+      ]
     },
     {
       "name": "#6",
@@ -90,7 +90,7 @@
           "trait_type": "Role",
           "value": "Pineapple"
         }
-      ],
+      ]
     },
     {
       "name": "#7",
@@ -105,7 +105,7 @@
           "trait_type": "Role",
           "value": "Pineapple"
         }
-      ],
+      ]
     },
     {
       "name": "#8",
@@ -120,7 +120,7 @@
           "trait_type": "Role",
           "value": "Pen"
         }
-      ],
+      ]
     },
     {
       "name": "#9",
@@ -135,7 +135,7 @@
           "trait_type": "Role",
           "value": "Pen"
         }
-      ],
+      ]
     },
     {
       "name": "#10",
@@ -150,7 +150,7 @@
           "trait_type": "Role",
           "value": "Apple"
         }
-      ],
+      ]
     },
     {
       "name": "#11",
@@ -165,7 +165,7 @@
           "trait_type": "Role",
           "value": "Pen"
         }
-      ],
+      ]
     },
     {
       "name": "#12",
@@ -180,7 +180,7 @@
           "trait_type": "Role",
           "value": "Apple"
         }
-      ],
+      ]
     },
     {
       "name": "#13",
@@ -195,7 +195,7 @@
           "trait_type": "Role",
           "value": "Pen&Apple"
         }
-      ],
+      ]
     },    
     {
       "name": "#14",
@@ -210,7 +210,7 @@
           "trait_type": "Role",
           "value": "Pen&Apple"
         }
-      ],
+      ]
     },
     {
       "name": "#15",
@@ -225,7 +225,7 @@
           "trait_type": "Role",
           "value": "Pen&Apple"
         }
-      ],
+      ]
     },
     {
       "name": "#16",
@@ -240,7 +240,7 @@
           "trait_type": "Role",
           "value": "Pen&Pineapple"
         }
-      ],
+      ]
     },
     {
       "name": "#17",
@@ -255,7 +255,7 @@
           "trait_type": "Role",
           "value": "Pen&Pineapple"
         }
-      ],
+      ]
     },
     {
       "name": "#18",
@@ -270,7 +270,7 @@
           "trait_type": "Role",
           "value": "Pen&Pineapple"
         }
-      ],
+      ]
     },
     {
       "name": "#19",
@@ -285,7 +285,7 @@
           "trait_type": "Role",
           "value": "Pen&Apple&Pineapple"
         }
-      ],
+      ]
     },
     {
       "name": "#20",
@@ -300,7 +300,7 @@
           "trait_type": "Role",
           "value": "Pen&Apple&Pineapple"
         }
-      ],
+      ]
     },
     {
       "name": "#21",
@@ -315,7 +315,7 @@
           "trait_type": "Role",
           "value": "Pen&Apple&Pineapple"
         }
-      ],
+      ]
     }
   ]
 }
