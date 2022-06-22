@@ -1,0 +1,15 @@
+{
+  "name": "#21",
+  "description": "",
+  "image": "https://charleschien7996.github.io/assets/20.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "07"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Pen&Apple&PineApple"
+    }
+  ],
+}

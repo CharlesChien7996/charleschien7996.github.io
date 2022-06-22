@@ -1,0 +1,321 @@
+{
+  "name": "No Name",
+  "description": "",
+  "collection": [
+    {
+      "name": "#1",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/0.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "09"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pineapple"
+        }
+      ],
+    },
+    {
+      "name": "#2",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/1.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "09"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Apple"
+        }
+      ],
+    },
+    {
+      "name": "#3",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/2.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "07"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen"
+        }
+      ],
+    },
+    {
+      "name": "#4",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/3.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "13"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen"
+        }
+      ],
+    },
+    {
+      "name": "#5",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/4.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "16"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pineapple"
+        }
+      ],
+    },
+    {
+      "name": "#6",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/5.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "11"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pineapple"
+        }
+      ],
+    },
+    {
+      "name": "#7",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/6.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "15"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pineapple"
+        }
+      ],
+    },
+    {
+      "name": "#8",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/7.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "16"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen"
+        }
+      ],
+    },
+    {
+      "name": "#9",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/8.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen"
+        }
+      ],
+    },
+    {
+      "name": "#10",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/9.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "14"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Apple"
+        }
+      ],
+    },
+    {
+      "name": "#11",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/10.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "12"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen"
+        }
+      ],
+    },
+    {
+      "name": "#12",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/11.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "07"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Apple"
+        }
+      ],
+    },
+    {
+      "name": "#13",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/12.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "07"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen&Apple"
+        }
+      ],
+    },    
+    {
+      "name": "#14",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/13.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "09"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen&Apple"
+        }
+      ],
+    },
+    {
+      "name": "#15",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/14.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen&Apple"
+        }
+      ],
+    },
+    {
+      "name": "#16",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/15.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "09"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen&Pineapple"
+        }
+      ],
+    },
+    {
+      "name": "#17",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/16.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "07"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen&Pineapple"
+        }
+      ],
+    },
+    {
+      "name": "#18",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/17.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "10"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen&Pineapple"
+        }
+      ],
+    },
+    {
+      "name": "#19",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/18.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "04"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen&Apple&Pineapple"
+        }
+      ],
+    },
+    {
+      "name": "#20",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/19.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "08"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen&Apple&Pineapple"
+        }
+      ],
+    },
+    {
+      "name": "#21",
+      "description": "",
+      "image": "https://charleschien7996.github.io/assets/20.png",
+      "attributes": [
+        {
+          "trait_type": "Background",
+          "value": "07"
+        },
+        {
+          "trait_type": "Role",
+          "value": "Pen&Apple&Pineapple"
+        }
+      ],
+    }
+  ]
+}
